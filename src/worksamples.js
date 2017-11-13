@@ -34,7 +34,7 @@ export default {
         "name": "GitHub Resume",
         "language": "ReactJS",
         "text": "Application built using Material UI to show a Resume and Work Samples",
-        "link": ""
+        "link": "https://github.com/gerisc01/resume"
       }
     ],
   },
